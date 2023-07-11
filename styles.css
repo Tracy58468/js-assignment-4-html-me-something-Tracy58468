@@ -1,1 +1,47 @@
 /* Write your CSS here! */
+
+body {
+    margin: 8px;
+    display: block;
+}
+
+#mainHeading {
+    color: red;
+}
+
+.funParagraph {
+    color: green;
+}
+
+article {
+    color: blue;
+}
+
+h2 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    max-width: 100%;
+}
+
+/*
+Your CSS must:
+
+    1. Use margin and padding to space your elements in a visually pleasing manner.
+
+Notes
+
+    1. In order to see any visible change, make sure to link the stylesheet to your main document.
+
+    2. Feel free to check out our styled example to see how we did things. Use “View Source” (by right-clicking anywhere on the page and selecting View Source).
+
+    3. Another thing you might find useful is your browser’s developer tools.
+
+    4. And be sure to use the Resources section below as you go.
+
+*/
