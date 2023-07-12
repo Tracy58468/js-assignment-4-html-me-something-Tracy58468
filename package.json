@@ -11,5 +11,8 @@
   "devDependencies": {
     "jasmine": "^3.99.0",
     "jsdom": "^16.4.0"
+  },
+  "dependencies": {
+    "Jasmine": "npm:jasmine@^3.99.0"
   }
 }
